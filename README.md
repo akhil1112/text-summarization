@@ -3,6 +3,7 @@ There are two main types of how to summarize text in NLP:
 1) Extraction-based summarization
 
 The extractive text summarization technique involves pulling keyphrases from the source document and combining them to make a summary. The extraction is made according to the defined metric without making any changes to the texts.
+
 2) Abstraction-based summarization
 
 The abstraction technique entails paraphrasing and shortening parts of the source document. When abstraction is applied for text summarization in deep learning problems, it can overcome the grammar inconsistencies of the extractive method.
